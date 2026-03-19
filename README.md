@@ -55,7 +55,7 @@
   适用于 AT32F402RCT7-7 的项目模板，包含系统配置、外设驱动与工程基础框架
 
 - **stm32-H7-gui-u8g2**  
-  基于 STM32H7 的图形界面相关尝试
+  基于 STM32H7 的u8g2图形界面相关尝试
 
 - **Stm32f103-base-demo**  
   电赛训练与基础测试例程
@@ -68,6 +68,9 @@
 
 ### 🔹 Competition / Practice
 
+- **CX32L003F8_Apparel**  
+  基于CX32L003的工控仪表相关设计
+  
 - **24H-Self-driving-car**  
   2024 电赛自动驾驶小车相关项目
 
@@ -81,7 +84,7 @@
   蓝桥杯 FPGA 方向相关测试项目
 
 - **Siemens-PLC-six-10-floor-elevator-control-program**  
-  西门子 PLC 十层电梯控制项目
+  西门子s7-1200 PLC 十层电梯控制项目
 
 ### 🔹 Others
 
@@ -90,10 +93,6 @@
 
 - **Image-information-processing-course**  
   图像信息处理课程相关内容
-
-- **astro-blog-Z1R343L**  
-  用 Astro 搭建的个人博客项目
-
 ---
 
 ## 📌 What I'm Doing
@@ -108,10 +107,5 @@
 ## 📫 Contact
 
 - GitHub: **Z1R343L-D77**
-- Blog: coming soon...
-
----
-
-## 📝 Motto
 
 > Stay curious, keep soldering, keep building.
