@@ -54,6 +54,9 @@
 ## 📫 Contact
 
 <p align="center">
+  <a href="https://www.cnblogs.com/z1r343l">
+    <img src="https://img.shields.io/badge/Blog-z1r343l-ff5722?style=for-the-badge&logo=rss&logoColor=white"/>
+  </a>
   <a href="https://github.com/Z1R343L-D77">
     <img src="https://img.shields.io/badge/GitHub-Z1R343L--D77-181717?style=for-the-badge&logo=github"/>
   </a>
